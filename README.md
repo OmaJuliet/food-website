@@ -2,17 +2,17 @@
 A food website built with html and css
 
 
-<!-----------------             Hero section: Deborah       --------->
+<!-----------------                Hero section: Deborah        --------->
 
 
 
 
-<!-----------------           Why choose us/About us: Juliet     ---------->
+<!-----------------             Why choose us/About us: Juliet     ---------->
 
 
 
 
-<!---------------             Special dishes/ what our client say about us: Deborah    -------->
+<!---------------               Special dishes/ what our client say about us: Deborah    -------->
 
 
 <!---------------                     footer: juliet        ------>
